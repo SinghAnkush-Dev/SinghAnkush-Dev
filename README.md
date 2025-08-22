@@ -59,13 +59,13 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Physicsxankush&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghAnkush-Dev&show_icons=true" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Physicsxankush" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghAnkush-Dev" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Physicsxankush&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghAnkush-Dev&layout=compact" alt="Top Languages" />
 </p>
 
 ---
