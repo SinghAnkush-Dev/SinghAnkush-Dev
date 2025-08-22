@@ -39,24 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- **ZenEye — Real-Time Concentration Tracker**  
-  *MediaPipe + OpenCV + heuristic scoring to estimate focus during online classes (Google Meet/Zoom).*  
-  Repo: https://github.com/Physicsxankush/ZenEye *(rename if different)*
-
-- **Campus Blood Bank Analytics**  
-  *End-to-end data pipeline + Power BI dashboard: donor trends, inventory, request turnaround.*  
-  Repo: https://github.com/Physicsxankush/blood-bank-analytics *(create if missing)*
-
-- **ML Playground Notebooks**  
-  *Clean notebooks for EDA, feature engineering, model baselines (CV/Tabular).*  
-  Repo: https://github.com/Physicsxankush/ml-playground *(create if missing)*
-
-> Pin these repos to your profile for quick visibility.
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SinghAnkush-Dev&show_icons=true" alt="GitHub stats" />
