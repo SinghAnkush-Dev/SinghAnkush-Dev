@@ -75,13 +75,36 @@
 
 ---
 
-## 🎯 2025 Goals
-- ✅ Ship **ZenEye v1.0** with clean UI & docs  
-- 📊 Publish a **Power BI** ML/analytics case study  
-- 🧪 Maintain an **ML baseline repo** (templates for EDA → model → eval)  
-- 🎥 Upload 12+ videos on **AnkushFlow**
+GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghAnkush-Dev&theme=tokyonight"/>
+
 
 ---
+
+Contribution Graph
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SinghAnkush-Dev&theme=tokyo-night)]()
+
+---
+
+Quote
+
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat."
+
+
+---
+
+Footer
+
+⭐ Thanks for visiting my profile!
+
+Let's build something amazing together 🚀
+
 
 ## 🤝 Let’s Collaborate
 **Looking for:** Frontend help (React/Tailwind), data labeling/eval buddies, analytics case studies.  
