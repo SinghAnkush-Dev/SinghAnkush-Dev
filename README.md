@@ -13,17 +13,27 @@
 
 ---
 
-## 🔗 Quick Links
-- **LinkedIn:** https://www.linkedin.com/in/ankush-singh-b1349129a  
-- **Instagram:** https://www.instagram.com/aankush._17  
-- **Portfolio:** *(https://singhankush.my.canva.site)*
-- **Email:** *ankushsingh9276@gmail.com*
+## 🌐 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)]()
+<a href="https://www.linkedin.com/in/ankush-singh-b1349129a" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)]()
+<a href="https://www.instagram.com/aankush._17" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:ankushsingh9276@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://singhankush.my.canva.site" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
