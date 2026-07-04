@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Ankush Singh
+<h1 align="center">Hi 👋 I'm Ankush Singh</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Developer;Machine+Learning+Engineer;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Things"/>
+</p>
+
 
 **AI/ML Enthusiast** • **B.Tech CSE (AI) — BBD University** • **NSS Volunteer**
 
