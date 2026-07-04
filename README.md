@@ -10,12 +10,12 @@
 - **LinkedIn:** https://www.linkedin.com/in/ankush-singh-b1349129a  
 - **Instagram:** https://www.instagram.com/aankush._17  
 - **YouTube (AnkushFlow):** *poetry • vlogs • songs*  
-- **Portfolio:** *(add when ready)*
+- **Portfolio:** *(https://singhankush.my.canva.site)*
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 2nd-year B.Tech (CSE–AI), 3rd semester  
+- 🎓 4th-year B.Tech (CSE–AI), 7th semester  
 - 📊 Upskilling for **Data Analyst / ML** roles (3 hrs/day)  
 - 🧠 Interests: Computer Vision, Classical ML, Model Evaluation, Analytics  
 - 🤝 Open to collaborations & hackathons
@@ -23,7 +23,7 @@
 ---
 
 ## 🛠️ Tech Toolkit
-**Languages:** C, C++, Python  
+**Languages:** C ,Python, Java
 **Core CS:** DBMS, OS, COA, ML, SNT (Math)  
 **Tools/Libraries:** scikit-learn, pandas, NumPy, OpenCV, MediaPipe, Jupyter, Power BI, Git/GitHub, VS Code
 
