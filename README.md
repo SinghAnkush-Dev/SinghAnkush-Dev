@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 I'm Ankush Singh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning+Engineer;Python+Developer;Data+Analytics+Enthusiast;Data+Science;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Python+Developer;Data+Analytics+Enthusiast;Data+Science+Enthusiast;Always+Learning+New+Things"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=SinghAnkush-Dev&color=blue&style=flat-square)
 
 
 **AI/ML Enthusiast** • **B.Tech CSE (AI) — BBD University** • **NSS Volunteer**
@@ -14,8 +16,14 @@
 ## 🔗 Quick Links
 - **LinkedIn:** https://www.linkedin.com/in/ankush-singh-b1349129a  
 - **Instagram:** https://www.instagram.com/aankush._17  
-- **YouTube (AnkushFlow):** *poetry • vlogs • songs*  
 - **Portfolio:** *(https://singhankush.my.canva.site)*
+- **Email:** *ankushsingh9276@gmail.com*
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
+
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)]()
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)]()
 
 ---
 
