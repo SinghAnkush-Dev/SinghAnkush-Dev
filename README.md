@@ -106,7 +106,3 @@ Footer
 Let's build something amazing together 🚀
 
 
-## 🤝 Let’s Collaborate
-**Looking for:** Frontend help (React/Tailwind), data labeling/eval buddies, analytics case studies.  
-**DMs open:** LinkedIn / Instagram
-
